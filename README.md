@@ -8,9 +8,9 @@
 
 ![](./images/screenshot.png)
 
-<!-- ### Links
+### Links
 
-- Live Site URL: [here](https://vaibhav-sanghi.github.io/recipe-card-frontendmentor/) -->
+- Live Site URL: [here](https://vaibhav-sanghi.github.io/profile-frontendmentor/)
 
 ### Built with
 
